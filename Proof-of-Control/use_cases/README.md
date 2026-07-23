@@ -7,8 +7,6 @@ calibration corpus for the standard.
 
 ## The Verifiability Matrix
 
-Two axes:
-
 - **Six verification domains** (columns): Provenance, Authorization, Security,
   Identity, Privacy, Portability.
 - **Four Verifiability Tiers** (rows): how strongly a claim is verified.
